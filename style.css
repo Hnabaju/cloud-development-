@@ -1,0 +1,50 @@
+body {background-color: deepskyblue;
+font-family: arial;
+color: white;
+margin-top: 100px;
+align-content: center;
+}
+
+h1{color:grey;
+font-family: vernada;
+font-weight: bolder;
+}
+.maindiv {
+	background-color: white;
+	color: black;
+	text-align: center;
+	width: 500px;
+    align-items: center;
+	padding: 20px;
+	border-radius: 25px;
+	position: relative;
+	left: 545px;
+}
+
+footer {
+	float: left;
+	color: maroon;
+	font-style: italic;
+	margin-top: 5px;
+	font-weight: bolder;
+	
+	
+}
+
+ #result {
+	color: blue;
+}
+#principal {
+	color: darkgreen;
+	background-color: skyblue;
+	width: 200px;
+	height: 30px;
+}
+#rate{
+	font-weight: bolder;
+	width: 200px;
+
+}
+#years {
+	width: 50px;
+}
